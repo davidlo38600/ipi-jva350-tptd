@@ -141,6 +141,9 @@ public final class Entreprise {
         return monEntier != test;
     }
 
-
+    //public static boolean estDansPlage(LocalDate d, LocalDate debut, LocalDate fin) {
+        // à implémenter en TDD !
+      //  throw new NotImplementedException();
+    //}
 
 }
